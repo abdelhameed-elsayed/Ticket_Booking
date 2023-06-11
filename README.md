@@ -2,15 +2,18 @@
 
 Using Flutter 3.3
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the website, clone the repo:
 
-A few resources to get you started if this is your first Flutter project:
+```
+$ git clone https://github.com/abdelhameed-elsayed/Ticket_Booking.git
+$ cd Ticket_Booking
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Then install the dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+- click the pub get button in pubspec.yaml
+- open your emulator and run the app
+```
